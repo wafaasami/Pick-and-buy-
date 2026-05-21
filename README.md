@@ -47,12 +47,15 @@ All team members collaboratively worked on:
 
 ## 📁 Project Resources
 
-* *Google Drive Link:*  https://docs.google.com/presentation/d/1ptwtHPhC3nTLQHOWfSxHH6tENLTQ17Ov/edit?usp=drive_link&ouid=117254229059197128635&rtpof=true&sd=true
-* ## Social Media Links
+* *Google Drive Link:*  https://docs.google.com/presentation/d/1ptwtHPhC3nTLQHOWfSxHH6tENLTQ17Ov/edit?usp=drive_link&ouid=117254229059197128635&rtpof=true&sd=true 
 
-- Facebook Page: [Pick & Buy](https://www.facebook.com/share/1GRtcPEy59/)
-- Instagram: [Pick & Buy](https://www.instagram.com/pickandbuy26?igsh=MXVkbTJjZjA1bGIzZg==)
-- TikTok: [Pick & Buy](https://www.tiktok.com/@pickandbuy26?_r=1&_t=ZS-96YSpPBgcQm)
+---
+
+* ## 🌐 Social Media Links
+
+- 📘 Facebook Page: [Pick & Buy](https://www.facebook.com/share/1GRtcPEy59/)
+- 📸 Instagram: [Pick & Buy](https://www.instagram.com/pickandbuy26?igsh=MXVkbTJjZjA1bGIzZg==)
+- 🎵 TikTok: [Pick & Buy](https://www.tiktok.com/@pickandbuy26?_r=1&_t=ZS-96YSpPBgcQm)
 
 ---
 
