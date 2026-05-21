@@ -11,9 +11,10 @@ This project focuses on creating and managing a digital marketing strategy for *
 
 * *Wafaa Sami*
 * *Haidy Mahmoud*
+* *Ali Mohamed Gomaa*
 * *Menna Emad*
 * *Nour Mohamed*
-* *Ali Mohamed Gomaa*
+
 
 ---
 
