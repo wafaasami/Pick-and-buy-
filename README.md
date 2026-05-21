@@ -48,6 +48,12 @@ All team members collaboratively worked on:
 
 * *Google Drive Link:* [coming soon]
 
+* ## Social Media Links
+
+- Facebook Page: [Pick & Buy](https://www.facebook.com/share/1GRtcPEy59/)
+- Instagram: [Pick & Buy](https://www.instagram.com/pickandbuy26?igsh=MXVkbTJjZjA1bGIzZg==)
+- TikTok: [Pick & Buy](https://www.tiktok.com/@pickandbuy26?_r=1&_t=ZS-96YSpPBgcQm)
+
 ---
 
 > *Notes: This repository contains the complete marketing plan and project materials for the Pick and Buy home appliances brand.*
