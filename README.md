@@ -47,7 +47,7 @@ All team members collaboratively worked on:
 
 ## 📁 Project Resources
 
-* *Google Drive Link:* [](https://docs.google.com/presentation/d/1ptwtHPhC3nTLQHOWfSxHH6tENLTQ17Ov/edit?usp=drive_link&ouid=117254229059197128635&rtpof=true&sd=true)]
+* *Google Drive Link:* [](https://docs.google.com/presentation/d/1ptwtHPhC3nTLQHOWfSxHH6tENLTQ17Ov/edit?usp=drive_link&ouid=117254229059197128635&rtpof=true&sd=true)] 
 
 * ## Social Media Links
 
